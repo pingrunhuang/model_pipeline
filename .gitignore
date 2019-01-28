@@ -1,0 +1,8 @@
+venv
+test
+.idea
+processors/poi_encoding
+processors/_pycache__
+pipeline/__pycache__
+__pycache__
+data
