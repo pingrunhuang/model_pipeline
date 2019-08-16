@@ -1,4 +1,4 @@
-# dnd model pipeline
+# drag and drop model pipeline
 As a data engineer, I always need to deal with data pipeline or model pipeline from one end to another. It always require
 different external storage in between pipelines. Sometimes csv is required, sometimes json is required and even database
 is required. However, what we really care about is just the result of a single pipeline. Therefore, a higher level of
